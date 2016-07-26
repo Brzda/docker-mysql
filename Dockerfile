@@ -1,4 +1,4 @@
-FROM mysql:5.7
+FROM mysql
 
 MAINTAINER "Lukas Brzobohaty" <brzda.l@gmail.com>
 
